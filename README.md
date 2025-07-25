@@ -27,7 +27,7 @@
 |--------|-------------|------------|
 | [🧠 Tumor Detection + XAI](https://github.com/sathyashreekv/BrainTumorDetectionAndClassification) | Image classification + segmentation using CNNs with explainability (Grad-CAM, SHAP) | Python, OpenCV, CNN |
 | [🐾 HappyTails](https://github.com/sathyashreekv/happytails) | Campus pet adoption & welfare platform with real-time dashboard | Streamlit, MongoDB |
-| [ MindNest](https://github.com/sathyashreekv/MindNest)|Mood journaling Tool with local memeory storeage with spinner |flutter,Dart|
+| [ MindNest](https://github.com/sathyashreekv/MindNest)|Mood journaling Tool with local memeory storage with spinner |flutter,Dart|
 | [🏦 Networked Financial System](https://github.com/sathyashreekv/financial_institution_network_system) | Simulated secure networked financial institution system | Python, OS Concepts |
 
 ---
