@@ -18,33 +18,25 @@
 
 ---
 
-### 🧪 Featured Projects
+### 🧪 Some  Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🧠 Tumor Detection + XAI](https://github.com/sathyashreckv/BrainTumorDetectionAndClassification) | Image classification + segmentation using CNNs with explainability (Grad-CAM, SHAP) | Python, OpenCV, CNN |
+| [🧠 Tumor Detection + XAI](https://github.com/sathyashreckv/BrainTumorDetectionAndClassification) | Image classification + segmentation using CNNs with explainability ( SHAP) | Python, OpenCV, CNN |
 | [🐾 HappyTails](https://github.com/sathyashreckv/happytails) | Campus pet adoption & welfare platform with real-time dashboard | Streamlit, MongoDB |
-| [🌾 AI for Agriculture](https://github.com/sathyashreckv/AiforAgri) | Precision agriculture insights using ML | Python |
 | [🔍 ATS Resume Screener](https://github.com/sathyashreckv/) | Applicant ranking system using Gemini model + ML | Streamlit, Gemini |
-| [💡 Saarthi (Voice AI)]() | Emergency assistant in local languages using phone calls | Whisper, Twilio, DialogFlow |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathyashreckv&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyashreckv&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sathyashreckv&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sathyashreckv&layout=compact&theme=radical" height="150" />
 </p>
 
----
-
-### 📫 Connect With Me
-
-- 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🌐 Portfolio (optional): [Link if available]
 
 ---
+
 
 _“Building with purpose, learning with passion.”_
