@@ -25,7 +25,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🧠 Tumor Detection + XAI](https://github.com/sathyashreckv/https:/github.com/sathyashreekv/BrainTumorDetectionAndClassification) | Image classification + segmentation using CNNs with explainability (Grad-CAM, SHAP) | Python, OpenCV, CNN |
+| [🧠 Tumor Detection + XAI](https://github.com//BrainTumorDetectionAndClassification) | Image classification + segmentation using CNNs with explainability (Grad-CAM, SHAP) | Python, OpenCV, CNN |
 | [🐾 HappyTails](https://github.com/sathyashreckv/happytails) | Campus pet adoption & welfare platform with real-time dashboard | Streamlit, MongoDB |
 | [🔍 ATS Resume Screener](https://github.com/sathyashreckv/) | Applicant ranking system using Gemini model + ML | Streamlit, Gemini |
 | [🌾 AI for Agriculture](https://github.com/sathyashreckv/AiforAgri) | ML model for agriculture health and yield prediction | Python, ML |
